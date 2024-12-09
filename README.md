@@ -56,6 +56,10 @@ The **Tiruppur Bank Application** is a modern and intuitive web-based banking pl
 - **Design**: Responsive and user-friendly UI design
 - **Functionality**: Interactive actions powered by JavaScript
 
+
+##HOME PAGE IMAGE:
+![sc](https://github.com/user-attachments/assets/f6bfb959-1085-4e02-b5f9-dd6b5288ea14)
+
 ## Getting Started
 
 1. **Clone the Repository**
