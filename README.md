@@ -60,3 +60,18 @@ The **Tiruppur Bank Application** is a modern and intuitive web-based banking pl
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/your-username/tiruppur-bank-application.git
+
+
+
+## Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Design**: Responsive and user-friendly UI design
+- **Functionality**: Interactive actions powered by JavaScript
+
+## Getting Started
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/tiruppur-bank-application.git
+
