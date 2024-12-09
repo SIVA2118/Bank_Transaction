@@ -1,31 +1,54 @@
 # Tiruppur Bank Application
 
-Welcome to the **Tiruppur Bank Application**, a simple and modern banking interface that enables users to manage their accounts, perform transactions, and view their transaction history with ease.
+The **Tiruppur Bank Application** is a modern and intuitive web-based banking platform that allows users to manage their accounts, perform transactions, and track their transaction history.
+
+---
+
+## Table of Contents
+
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Future Enhancements](#future-enhancements)
+- [License](#license)
+
+---
 
 ## Features
 
-- **Home Page**: 
-  - Welcome message and hero section with a description of the bank's offerings.
-  - Login functionality for user authentication.
-  
-- **Dashboard**: 
-  - Displays user information and account balance.
-  - Options to:
-    - Deposit funds
-    - Withdraw funds
-    - View transaction history
-    - Logout
+- **Home Page**:
+  - Welcome message and a hero section introducing the bank's services.
+  - User login functionality.
+
+- **Dashboard**:
+  - Displays the user's account balance.
+  - Provides options for:
+    - Depositing funds
+    - Withdrawing funds
+    - Viewing transaction history
+    - Logging out
 
 - **Transaction History**:
-  - View a detailed table of past transactions including:
+  - Displays a detailed table of all transactions with:
     - Date
     - Transaction type (Deposit/Withdraw)
     - Amount
 
+---
+
 ## Project Structure
-├── index.html # Home page of the application ├── dashboard.html # Dashboard for managing user accounts ├── history.html # Transaction history page ├── index.css # Styling for the home page ├── styles.css # Styling for the dashboard ├── history.css # Styling for the transaction history page ├── home.js # JavaScript for the home page (login functionality) ├── script.js # JavaScript for the dashboard (deposit/withdraw actions) ├── history.js #
 
-
+```plaintext
+├── index.html          # Home page of the application
+├── dashboard.html      # Dashboard for managing user accounts
+├── history.html        # Transaction history page
+├── index.css           # Styling for the home page
+├── styles.css          # Styling for the dashboard
+├── history.css         # Styling for the transaction history page
+├── home.js             # JavaScript for the home page (login functionality)
+├── script.js           # JavaScript for the dashboard (deposit/withdraw actions)
+├── history.js          # JavaScript for transaction history page
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
