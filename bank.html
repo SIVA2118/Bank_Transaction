@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bank Application - Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-container">
+    <h1>Bank Application</h1>
+    <div id="bank-section">
+      <h2>Welcome, <span id="user-name"></span></h2>
+      <p>Balance: $<span id="balance">0</span></p>
+
+      <!-- Navigation Bar -->
+      <nav class="navbar">
+        <ul>
+          <li><a href="#" id="deposit-btn">Deposit</a></li>
+          <li><a href="#" id="withdraw-btn">Withdraw</a></li>
+          <li><a href="#" id="history-btn">Transaction History</a></li>
+          <li><a href="#" id="logout-btn">Logout</a></li>
+        </ul>
+      </nav>
+
+      <div class="actions">
+        <input type="number" id="amount" placeholder="Enter Amount">
+      </div>
+      
+      <p id="message" class="message"></p>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

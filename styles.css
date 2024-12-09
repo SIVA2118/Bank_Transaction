@@ -1,0 +1,42 @@
+/* Style for Navbar */
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navbar ul li {
+  flex: 1;
+  text-align: center;
+}
+
+.navbar ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar ul li a:hover {
+  background-color: #575757;
+}
+
+/* For better layout */
+.actions {
+  margin: 20px 0;
+}
+
+.hidden {
+  display: none;
+}
+
+.message {
+  color: red;
+  margin-top: 10px;
+}

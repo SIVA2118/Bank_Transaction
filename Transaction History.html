@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Transaction History</title>
+  <link rel="stylesheet" href="history.css">
+</head>
+<body>
+  <div class="app-container">
+    <h1>Transaction History</h1>
+    <table id="transaction-table">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Type</th>
+          <th>Amount</th>
+        </tr>
+      </thead>
+      <tbody id="transaction-body">
+        <!-- Transaction records will be dynamically populated -->
+      </tbody>
+    </table>
+    <button onclick="goBack()">Back to Home</button>
+  </div>
+  <script src="history.js"></script>
+</body>
+</html>
