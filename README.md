@@ -37,6 +37,9 @@ The **Tiruppur Bank Application** is a modern and intuitive web-based banking pl
 
 ---
 
+##HOME PAGE IMAGE:
+![sc](https://github.com/user-attachments/assets/f6bfb959-1085-4e02-b5f9-dd6b5288ea14)
+
 ## Project Structure
 
 ```plaintext
@@ -61,6 +64,4 @@ The **Tiruppur Bank Application** is a modern and intuitive web-based banking pl
    ```bash
    git clone https://github.com/your-username/tiruppur-bank-application.git
 
-##HOME PAGE IMAGE:
-![sc](https://github.com/user-attachments/assets/f6bfb959-1085-4e02-b5f9-dd6b5288ea14)
 
